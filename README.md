@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![bio](https://github-readme-stats.vercel.app/api?username=AndreIglesias&hide=stars&show_icons=true&include_all_commits=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreIglesias&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![bio](https://github-readme-stats.vercel.app/api?username=AndreIglesias&hide_title=true&show_icons=true&include_all_commits=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreIglesias&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
