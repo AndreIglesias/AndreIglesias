@@ -1,8 +1,7 @@
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=AndreIglesias&color=green)
 
 ![bio](https://github-readme-stats.vercel.app/api?username=AndreIglesias&hide_title=true&show_icons=true&include_all_commits=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreIglesias&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=AndreIglesias&color=green)
 
 <!--
 **AndreIglesias/AndreIglesias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
