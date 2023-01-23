@@ -25,12 +25,22 @@
 
 <br/>
 <p>
-<img src = "https://github-readme-stats.vercel.app/api?username=AndreIglesias&hide_title=true&show_icons=true&include_all_commits=true&theme=dark" />
+  <a href="https://github.com/AndreIglesias/AndreIglesias">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AndreIglesias&hide_title=true&show_icons=true&include_all_commits=true&theme=dark">
+      <img alt="Andre's GitHub 3D Contrib Calendar" src="https://github-readme-stats.vercel.app/api?username=AndreIglesias&hide_title=true&show_icons=true&include_all_commits=true&theme=light">
+    </picture>
+  </a>
 </p>
 
 <br/>
 <p>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AndreIglesias&layout=compact&theme=dark" />
+    <a href="https://github.com/AndreIglesias/AndreIglesias">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreIglesias&layout=compact&theme=dark">
+      <img alt="Andre's GitHub 3D Contrib Calendar" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreIglesias&layout=compact&theme=light">
+    </picture>
+  </a>
 </p>
 
 <p align='center'>
