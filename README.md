@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/> 
 </p>
-<p>
-  <img src = "https://user-images.githubusercontent.com/35022933/213946484-2985a913-700f-44a7-8d85-c47b3a74f38e.gif" >
-  <img src = "https://user-images.githubusercontent.com/35022933/213946489-9b42d991-c5ae-4f5c-9691-4d166994a910.gif" >
+<p align="center">
+  <img src = "https://user-images.githubusercontent.com/35022933/213946484-2985a913-700f-44a7-8d85-c47b3a74f38e.gif" width = 45%>
+  <img src = "https://user-images.githubusercontent.com/35022933/213946489-9b42d991-c5ae-4f5c-9691-4d166994a910.gif" width = 45%>
 </p>
 <h1 align="center">
   Hi there Squirtle Squad, U hungry for CODE? 
