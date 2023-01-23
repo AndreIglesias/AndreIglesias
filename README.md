@@ -10,10 +10,10 @@
   <img src = "https://user-images.githubusercontent.com/35022933/213947145-70f02ba3-4a0f-41ee-9c75-bf24c6d18aba.png" width = 50> 
 </h1>
 
-## Github Stats &nbsp;<img src = "https://user-images.githubusercontent.com/35022933/213947808-b95e5bfc-2c64-41ac-a2dd-5f50ef558a8b.png" width = 20>
+## Github Stats &nbsp;<img src = "https://user-images.githubusercontent.com/35022933/214072852-b93f3f07-6e78-4fb5-9ee9-3fe7ef5a2fde.png" width = 20>
 
-### 3D Contribution Calendar 📅
-<br>
+### 3D Contribution Calendar &nbsp;<img src = "https://user-images.githubusercontent.com/35022933/214073493-4a9311c6-1672-43c3-b0c4-890db46be7cf.png" width = 20>
+<br/>
 <p align='center'>
   <a href="https://github.com/AndreIglesias/AndreIglesias">
     <picture>
@@ -23,6 +23,7 @@
   </a>
 </p>
 
+### Contribution Chart &nbsp;<img src = "https://user-images.githubusercontent.com/35022933/214072601-c40e3484-cf9a-4da8-b848-44a96fe5d471.png" width = 20>
 <br/>
 <p>
   <a href="https://github.com/AndreIglesias/AndreIglesias">
@@ -33,6 +34,7 @@
   </a>
 </p>
 
+### Language Chart &nbsp;<img src = "https://user-images.githubusercontent.com/35022933/214073894-788bb3dd-c1e0-4b1a-9a53-7457d612a33a.png" width = 20>
 <br/>
 <p>
     <a href="https://github.com/AndreIglesias/AndreIglesias">
