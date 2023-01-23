@@ -15,7 +15,12 @@
 ### 3D Contribution Calendar 📅
 <br>
 <p align='center'>
-<img src="./profile-3d-contrib/profile-night-view.svg">
+  <a href="https://github.com/AndreIglesias/AndreIglesias">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
+      <img alt="Andre's GitHub 3D Contrib Calendar" src="./profile-3d-contrib/profile-green-animate.svg">
+    </picture>
+  </a>
 </p>
 
 <br/>
