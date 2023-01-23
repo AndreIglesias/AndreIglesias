@@ -1,18 +1,27 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/> 
+</p>
+<p>
+  <img src = "https://user-images.githubusercontent.com/35022933/213946484-2985a913-700f-44a7-8d85-c47b3a74f38e.gif" >
+  <img src = "https://user-images.githubusercontent.com/35022933/213946489-9b42d991-c5ae-4f5c-9691-4d166994a910.gif" >
+</p>
+<h1 align="center">
+  Hi there Squirtle Squad, U hungry for CODE? 
+  <img src = "https://user-images.githubusercontent.com/35022933/213947145-70f02ba3-4a0f-41ee-9c75-bf24c6d18aba.png" width = 50> 
+</h1>
 
-![bio](https://github-readme-stats.vercel.app/api?username=AndreIglesias&hide_title=true&show_icons=true&include_all_commits=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreIglesias&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## Github Stats &nbsp;<img src = "https://user-images.githubusercontent.com/35022933/213947808-b95e5bfc-2c64-41ac-a2dd-5f50ef558a8b.png" width = 20>
 
-<!--
-**AndreIglesias/AndreIglesias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<p>
+<img src = "https://github-readme-stats.vercel.app/api?username=AndreIglesias&hide_title=true&show_icons=true&include_all_commits=true&theme=dark" />
+</p>
 
-Here are some ideas to get you started:
+<br/>
+<p>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AndreIglesias&layout=compact&theme=dark" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+<h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
+</p>
