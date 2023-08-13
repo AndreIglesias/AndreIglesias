@@ -10,7 +10,7 @@
   <img src = "https://user-images.githubusercontent.com/35022933/213947145-70f02ba3-4a0f-41ee-9c75-bf24c6d18aba.png" width = 50> 
 </h1>
 
-## Github Stats &nbsp;<img src = "https://user-images.githubusercontent.com/35022933/214072852-b93f3f07-6e78-4fb5-9ee9-3fe7ef5a2fde.png" width = 20> <img align="right" src = "https://gpvc.arturio.dev/andreiglesias">
+## Github Stats &nbsp;<img src = "https://user-images.githubusercontent.com/35022933/214072852-b93f3f07-6e78-4fb5-9ee9-3fe7ef5a2fde.png" width = 20> <img align="right" src = "https://github.com/AndreIglesias/AndreIglesias/assets/35022933/d7ed7c27-77d4-4190-b817-939b1c017790" width = 30>
 
 
 ### 3D Contribution Calendar &nbsp;<img src = "https://user-images.githubusercontent.com/35022933/214073493-4a9311c6-1672-43c3-b0c4-890db46be7cf.png" width = 20>
