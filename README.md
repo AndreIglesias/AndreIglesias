@@ -24,6 +24,16 @@
   </a>
 </p>
 
+<br/>
+<p>
+  <a>
+    <picture>
+      <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=AndreIglesias&theme=high-contrast&hide_border=true">
+      <img alt="Andre's Github Contrib" src="https://github-readme-activity-graph.vercel.app/graph?username=AndreIglesias&theme=high-contrast&hide_border=true">
+    </picture>
+  </a>
+</p>
+
 ### Contribution Chart &nbsp;<img src = "https://user-images.githubusercontent.com/35022933/214072601-c40e3484-cf9a-4da8-b848-44a96fe5d471.png" width = 20>
 <br/>
 <p>
