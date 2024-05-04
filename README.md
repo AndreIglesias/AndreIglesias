@@ -20,35 +20,11 @@
   </a>
 </p>
 
-### AI 🤖
-<p align='center'>
-  <a href='https://github.com/andreiglesias/DigHacktion'>
-    
-https://github.com/AndreIglesias/AndreIglesias/assets/35022933/b602aa91-e969-445f-9b7a-fe05fcf33fc1
-
-  </a>
-</p>
-
-### Low-level virtualization 🧊
-<p align='center'>
-  <a href='https://github.com/andreiglesias/Corewar'>
-    <img src="corewar.gif" width='100%'>
-  </a>
-</p>
-
-### DevOps ArgoCD Kubernetes 🕸️
-<p align='center'>
-  <a href='https://github.com/AndreIglesias/Inception-of-Things'>
-    <img src="https://github.com/AndreIglesias/AndreIglesias/assets/35022933/ecadca9d-9889-4f8d-bc32-28c12262a1ef" width='100%'>
-  </a>
-</p>
-
-### Optimization Algorithms ⛓️
-<p align='center'>
-  <a href='https://github.com/AndreIglesias/Lem-in'>
-    <img src="https://github.com/AndreIglesias/AndreIglesias/assets/35022933/5a6bb2aa-f89e-4ad0-9d80-8b2809b99323">
-  </a>
-</p>
+| **AI 🤖**                     | **Low-level Virtualization 🧊**                                                               |
+|------------------------------|------------------------------------------------------------------------------------------------|
+| [![AI](demo.mp4)](https://github.com/andreiglesias/DigHacktion) | [![Corewar](corewar.gif)](https://github.com/andreiglesias/Corewar) |
+| **DevOps ArgoCD Kubernetes 🕸️** | **Optimization Algorithms ⛓️**                                                           |
+| [![Inception of Things](https://github.com/AndreIglesias/AndreIglesias/assets/35022933/ecadca9d-9889-4f8d-bc32-28c12262a1ef)](https://github.com/AndreIglesias/Inception-of-Things) | [![Lem-in](https://github.com/AndreIglesias/AndreIglesias/assets/35022933/5a6bb2aa-f89e-4ad0-9d80-8b2809b99323)](https://github.com/AndreIglesias/Lem-in) |
 
 ## Github Stats &nbsp;<img src = "https://user-images.githubusercontent.com/35022933/214072852-b93f3f07-6e78-4fb5-9ee9-3fe7ef5a2fde.png" width = 20> <img align="right" src = "https://github.com/AndreIglesias/AndreIglesias/assets/35022933/d7ed7c27-77d4-4190-b817-939b1c017790" width = 30>
 
