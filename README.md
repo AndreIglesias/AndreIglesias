@@ -22,7 +22,7 @@
 
 ### AI 🤖
 <p align='center'>
-  <a href='https://github.com/andreiglesias/dighacktion'>
+  <a href='https://github.com/andreiglesias/DigHacktion'>
     
 https://github.com/AndreIglesias/AndreIglesias/assets/35022933/b602aa91-e969-445f-9b7a-fe05fcf33fc1
 
@@ -31,7 +31,7 @@ https://github.com/AndreIglesias/AndreIglesias/assets/35022933/b602aa91-e969-445
 
 ### Low-level virtualization 🧊
 <p align='center'>
-  <a href='https://github.com/andreiglesias/corewar'>
+  <a href='https://github.com/andreiglesias/Corewar'>
     <img src="corewar.gif" width='100%'>
   </a>
 </p>
@@ -40,6 +40,13 @@ https://github.com/AndreIglesias/AndreIglesias/assets/35022933/b602aa91-e969-445
 <p align='center'>
   <a href='https://github.com/AndreIglesias/Inception-of-Things'>
     <img src="https://github.com/AndreIglesias/AndreIglesias/assets/35022933/ecadca9d-9889-4f8d-bc32-28c12262a1ef" width='100%'>
+  </a>
+</p>
+
+### Optimization Algorithms
+<p align='center'>
+  <a href='https://github.com/AndreIglesias/Lem-in'>
+    <img src="https://github.com/AndreIglesias/AndreIglesias/assets/35022933/5a6bb2aa-f89e-4ad0-9d80-8b2809b99323">
   </a>
 </p>
 
