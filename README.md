@@ -22,7 +22,7 @@
 
 | **AI 🤖**                     | **Low-level Virtualization 🧊**                                                               |
 |------------------------------|------------------------------------------------------------------------------------------------|
-| [![AI](Demo.mp4)](https://github.com/andreiglesias/DigHacktion) | [![Corewar](corewar.gif)](https://github.com/andreiglesias/Corewar) |
+| [![AI](https://github.com/AndreIglesias/AndreIglesias/assets/35022933/8169e54f-fd75-477e-8276-fd7d8e137000)](https://github.com/andreiglesias/DigHacktion) | [![Corewar](corewar.gif)](https://github.com/andreiglesias/Corewar) |
 | **DevOps ArgoCD Kubernetes 🕸️** | **Optimization Algorithms ⛓️**                                                           |
 | [![Inception of Things](https://github.com/AndreIglesias/AndreIglesias/assets/35022933/ecadca9d-9889-4f8d-bc32-28c12262a1ef)](https://github.com/AndreIglesias/Inception-of-Things) | [![Lem-in](https://github.com/AndreIglesias/AndreIglesias/assets/35022933/5a6bb2aa-f89e-4ad0-9d80-8b2809b99323)](https://github.com/AndreIglesias/Lem-in) |
 
