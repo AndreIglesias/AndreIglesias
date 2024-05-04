@@ -12,19 +12,15 @@
 
 ## Project Gallery
 
-### Binary Exploitation 👾
-<p align='center'>
-  <a href='https://github.com/andreiglesias/rainfall'>
-    <img src="https://github.com/AndreIglesias/AndreIglesias/assets/35022933/fa63e968-6185-4436-acc3-fd28dc1c17a6" width='47%'>
-    <img src="https://github.com/AndreIglesias/AndreIglesias/assets/35022933/2e2cd4a7-41f3-4b28-853a-79a33e01f2fa" width='47%'>
-  </a>
-</p>
 
-| **AI 🤖**                     | **Low-level Virtualization 🧊**                                                               |
-|------------------------------|------------------------------------------------------------------------------------------------|
+| **Binary Analysis 👾**                             | **Binary Exploitation 💥**                             |
+|----------------------------------------------------|-------------------------------------------------------|
+| [![IDA](https://github.com/AndreIglesias/AndreIglesias/assets/35022933/fa63e968-6185-4436-acc3-fd28dc1c17a6)](https://github.com/andreiglesias/rainfall) | [![r2](https://github.com/AndreIglesias/AndreIglesias/assets/35022933/2e2cd4a7-41f3-4b28-853a-79a33e01f2fa)](https://github.com/andreiglesias/rainfall) |
+| **AI 🤖**                                          | **Low-level Virtualization 🧊**                          |
 | [![AI](https://github.com/AndreIglesias/AndreIglesias/assets/35022933/8169e54f-fd75-477e-8276-fd7d8e137000)](https://github.com/andreiglesias/DigHacktion) | [![Corewar](corewar.gif)](https://github.com/andreiglesias/Corewar) |
-| **DevOps ArgoCD Kubernetes 🕸️** | **Optimization Algorithms ⛓️**                                                           |
+| **DevOps ArgoCD Kubernetes 🕸️**                    | **Optimization Algorithms ⛓️**                          |
 | [![Inception of Things](https://github.com/AndreIglesias/AndreIglesias/assets/35022933/ecadca9d-9889-4f8d-bc32-28c12262a1ef)](https://github.com/AndreIglesias/Inception-of-Things) | [![Lem-in](https://github.com/AndreIglesias/AndreIglesias/assets/35022933/5a6bb2aa-f89e-4ad0-9d80-8b2809b99323)](https://github.com/AndreIglesias/Lem-in) |
+
 
 ## Github Stats &nbsp;<img src = "https://user-images.githubusercontent.com/35022933/214072852-b93f3f07-6e78-4fb5-9ee9-3fe7ef5a2fde.png" width = 20> <img align="right" src = "https://github.com/AndreIglesias/AndreIglesias/assets/35022933/d7ed7c27-77d4-4190-b817-939b1c017790" width = 30>
 
