@@ -28,8 +28,8 @@
 <p>
   <a>
     <picture>
-      <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=AndreIglesias&theme=high-contrast&hide_border=true">
-      <img alt="Andre's Github Contrib" src="https://github-readme-activity-graph.vercel.app/graph?username=AndreIglesias&theme=high-contrast&hide_border=true">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AndreIglesias&theme=high-contrast&hide_border=true">
+      <img alt="Andre's Github Contrib" src="https://github-readme-activity-graph.vercel.app/graph?username=AndreIglesias&theme=github-compact&hide_border=true">
     </picture>
   </a>
 </p>
