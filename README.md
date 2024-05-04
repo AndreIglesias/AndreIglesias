@@ -43,7 +43,7 @@ https://github.com/AndreIglesias/AndreIglesias/assets/35022933/b602aa91-e969-445
   </a>
 </p>
 
-### Optimization Algorithms
+### Optimization Algorithms ⛓️
 <p align='center'>
   <a href='https://github.com/AndreIglesias/Lem-in'>
     <img src="https://github.com/AndreIglesias/AndreIglesias/assets/35022933/5a6bb2aa-f89e-4ad0-9d80-8b2809b99323">
