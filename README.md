@@ -14,7 +14,7 @@
 
 
 | **Binary Analysis 👾**                             | **Binary Exploitation 💥**                             |
-|----------------------------------------------------|-------------------------------------------------------|
+|:----------------------------------------------------:|:-------------------------------------------------------:|
 | [![IDA](https://github.com/AndreIglesias/AndreIglesias/assets/35022933/fa63e968-6185-4436-acc3-fd28dc1c17a6)](https://github.com/andreiglesias/rainfall) | [![r2](https://github.com/AndreIglesias/AndreIglesias/assets/35022933/2e2cd4a7-41f3-4b28-853a-79a33e01f2fa)](https://github.com/andreiglesias/rainfall) |
 | **AI 🤖**                                          | **Low-level Virtualization 🧊**                          |
 | [![AI](https://github.com/AndreIglesias/AndreIglesias/assets/35022933/8169e54f-fd75-477e-8276-fd7d8e137000)](https://github.com/andreiglesias/DigHacktion) | [![Corewar](corewar.gif)](https://github.com/andreiglesias/Corewar) |
